@@ -1,5 +1,4 @@
-I'm a polyvalent developer.
-Anything that touch images in computer passionate me.
+
 
 <!---
 gheimerdinger/gheimerdinger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
